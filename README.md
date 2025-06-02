@@ -33,6 +33,9 @@ Currently based in **Canada 🇨🇦** and open to exciting opportunities!
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=fff)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=fff)
 
 ### 🧪 Back-End & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
