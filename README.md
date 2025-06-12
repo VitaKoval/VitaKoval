@@ -68,7 +68,7 @@ Currently based in **Canada 🇨🇦** and open to exciting opportunities!
 ## 📫 Contact Me
 
 - ✉️ Email: [koval3vita@gmail.com]
-- 💼 LinkedIn: [VitaKoval](www.linkedin.com/in/vita-koval-dev)
+- 💼 LinkedIn: [VitaKoval](https://www.linkedin.com/in/vita-koval-dev)
 - 🌐 Portfolio: [vitakoval.github.io/my-portfolio/](https://vitakoval.github.io/my-portfolio/)
 
 
